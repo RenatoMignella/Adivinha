@@ -4,3 +4,6 @@
 ____________________________________________________________
 
 A Guess game sample in HTML CSS and JavaScript 
+
+
+![](presentationgif.gif)
